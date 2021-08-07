@@ -53,3 +53,12 @@ Tab label {
     font-weight: 700;
     top: -6vh;
 }
+
+.error-text {
+    color: red;
+    font-weight: bold;
+}
+
+.text-info {
+    text-align: center;
+}
